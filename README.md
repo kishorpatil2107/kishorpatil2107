@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kishorpatil2107
 - 👀 I’m interested in PYTHON,SQL, PLSQL,DATA SCIENCE, ML, AI,POWER BI
-- 🌱 I’m currently learning PYTHON, DATA SCIENCE, AI, POWER BI
+- 🌱 I’m currently workingning on SQL, PLSQL, PYTHON, DATA SCIENCE, AI, POWER BI
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
