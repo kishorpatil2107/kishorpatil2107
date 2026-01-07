@@ -1,4 +1,4 @@
-# 💼 Kishor D. Patil — Azure DevOps Engineer
+# 💼 Kishor D. Patil — AWS DevOps Engineer
 
 📍 Pune, India  
 📧 [kishordpatil2107@gmail.com](mailto:kishordpatil2107@gmail.com)  
@@ -14,13 +14,13 @@ I am an Azure-certified DevOps Engineer with 5+ years of hands-on experience in 
 
 ## 🧰 Tech Stack
 
-- **CI/CD Tools**: Azure DevOps, Jenkins, GitHub Actions  
+- **CI/CD Tools**: Jenkins, GitHub Actions  
 - **IaC**: Terraform, Ansible  
-- **Containers & Orchestration**: Docker, Kubernetes (AKS), Helm  
+- **Containers & Orchestration**: Docker, Kubernetes (EKS), Helm  
 - **Scripting**: Python, Bash, PowerShell  
 - **Monitoring**: Prometheus, Grafana, ELK, Azure Monitor  
-- **Security**: Azure Key Vault, HashiCorp Vault, Trivy, Aqua  
-- **Cloud**: Azure, AWS (basic), GCP (basic)
+- **Security**: AWS Secrete manager, Azure Key Vault, HashiCorp Vault, Trivy, Aqua  
+- **Cloud**: Azure, AWS , GCP (basic)
 
 ---
 
