@@ -8,7 +8,7 @@
 
 ## 👨‍💻 About Me
 
-I am an Azure-certified DevOps Engineer with 5+ years of hands-on experience in building scalable infrastructure and CI/CD automation on Microsoft Azure. I specialize in Infrastructure as Code (Terraform), container orchestration (AKS, Helm), monitoring (Prometheus/Grafana), and secure deployments using tools like Azure DevOps, GitHub Actions, and Jenkins.
+I am an Azure-certified DevOps Engineer with 5+ years of hands-on experience in building scalable infrastructure and CI/CD automation on AWS Cloud. I specialize in Infrastructure as Code (Terraform), container orchestration (AKS, Helm), monitoring (Prometheus/Grafana), and secure deployments using tools like AWS, Azure DevOps, GitHub Actions, and Jenkins.
 
 ---
 
